@@ -39,6 +39,7 @@ Summary:
 1. [Cobblemon Expeditions](https://modrinth.com/mod/cobblemon_expeditions)
 1. [Cobbreeding](https://modrinth.com/mod/cobbreeding)
 1. [Cobblemon: Lost Lore](https://modrinth.com/datapack/poketwo)
+1. [Research Tasks](https://modrinth.com/mod/cobblemon-research-tasks)
 1. [BadgeBox](https://modrinth.com/mod/cobblemon-badgebox)
 1. [Rustling Spots](https://modrinth.com/mod/cobblemon-rustling-spots)
 1. [Cobblemon Raid Dens](https://modrinth.com/mod/cobblemonraiddens)
