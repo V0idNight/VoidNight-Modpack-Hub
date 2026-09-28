@@ -133,6 +133,7 @@ Summary:
 1. [Dynamic FPS](https://modrinth.com/mod/dynamic-fps)
 1. [Chunky](https://modrinth.com/plugin/chunky)
 1. [Fast Paintings](https://modrinth.com/mod/fast-paintings)
+1. [Fast Noise](https://modrinth.com/mod/zfastnoise)
 
 ### Compatibility
 
@@ -167,6 +168,7 @@ Summary:
 1. [SuperMartijn642's Core Lib](https://modrinth.com/mod/supermartijn642s-core-lib)
 1. [SuperMartijn642's Config Lib](https://modrinth.com/mod/supermartijn642s-config-lib)
 1. [Athena](https://modrinth.com/mod/athena-ctm)
+1. [ZConfig](https://modrinth.com/mod/zconfig)
 
 ### Datapacks & Resource Packs
 
