@@ -11,6 +11,8 @@
 7. [Controlling](https://modrinth.com/mod/controlling)
 8. [Configured](https://www.curseforge.com/minecraft/mc-mods/configured)
 9. [Catalogue](https://www.curseforge.com/minecraft/mc-mods/catalogue)
+10. [Mouse Tweaks](https://modrinth.com/mod/mouse-tweaks)
+11. [Polymorph](https://modrinth.com/mod/polymorph)
 
 ### Content
 
@@ -20,6 +22,8 @@
 4. [Curios API](https://modrinth.com/mod/curios)
 5. [End Remastered](https://modrinth.com/mod/endrem)
 6. [Relics](https://modrinth.com/mod/relics-mod)
+7. [Supplementaries](https://modrinth.com/mod/supplementaries)
+8. [Quark](https://modrinth.com/mod/quark)
 
 ### QoL
 
@@ -32,6 +36,11 @@
 7. [Better Combat](https://modrinth.com/mod/better-combat)
 8. [PlayerRevive](https://modrinth.com/mod/playerrevive)
 9. [Corpse](https://modrinth.com/mod/corpse)
+10. [Enchantment Descriptions](https://modrinth.com/mod/enchantment-descriptions)
+11. [EMI](https://modrinth.com/mod/emi)
+12. [AppleSkin](https://modrinth.com/mod/appleskin)
+13. [Jade](https://modrinth.com/mod/jade)
+14. [Chat Heads](https://modrinth.com/mod/chat-heads)
 
 ### Perfomance
 
