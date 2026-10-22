@@ -17,13 +17,17 @@
 ### Content
 
 1. [Ars Nouveau](https://modrinth.com/mod/ars-nouveau)
-2. [Comforts](https://modrinth.com/mod/comforts)
-3. [Waystones](https://modrinth.com/mod/waystones)
-4. [Curios API](https://modrinth.com/mod/curios)
-5. [End Remastered](https://modrinth.com/mod/endrem)
-6. [Relics](https://modrinth.com/mod/relics-mod)
-7. [Supplementaries](https://modrinth.com/mod/supplementaries)
-8. [Quark](https://modrinth.com/mod/quark)
+2. [Ars Elixirum](https://modrinth.com/mod/ars-elixirum)
+3. [Ars Elemental](https://www.curseforge.com/minecraft/mc-mods/ars-elemental)
+4. [Ars Delight](https://modrinth.com/mod/arsdelight)
+5. [Not Enough Glyphs](https://modrinth.com/mod/not-enough-glyphs)
+6. [Comforts](https://modrinth.com/mod/comforts)
+7. [Waystones](https://modrinth.com/mod/waystones)
+8. [Curios API](https://modrinth.com/mod/curios)
+9. [End Remastered](https://modrinth.com/mod/endrem)
+10. [Relics](https://modrinth.com/mod/relics-mod)
+11. [Supplementaries](https://modrinth.com/mod/supplementaries)
+12. [Quark](https://modrinth.com/mod/quark)
 
 ### QoL
 
