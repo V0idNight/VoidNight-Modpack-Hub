@@ -13,6 +13,7 @@
 9. [Catalogue](https://www.curseforge.com/minecraft/mc-mods/catalogue)
 10. [Mouse Tweaks](https://modrinth.com/mod/mouse-tweaks)
 11. [Polymorph](https://modrinth.com/mod/polymorph)
+12. [FTB Essentials](https://www.curseforge.com/minecraft/mc-mods/ftb-essentials)
 
 ### Content
 
@@ -21,13 +22,14 @@
 3. [Ars Elemental](https://www.curseforge.com/minecraft/mc-mods/ars-elemental)
 4. [Ars Delight](https://modrinth.com/mod/arsdelight)
 5. [Not Enough Glyphs](https://modrinth.com/mod/not-enough-glyphs)
-6. [Comforts](https://modrinth.com/mod/comforts)
-7. [Waystones](https://modrinth.com/mod/waystones)
-8. [Curios API](https://modrinth.com/mod/curios)
-9. [End Remastered](https://modrinth.com/mod/endrem)
-10. [Relics](https://modrinth.com/mod/relics-mod)
-11. [Supplementaries](https://modrinth.com/mod/supplementaries)
-12. [Quark](https://modrinth.com/mod/quark)
+6. [Iron's Artifice](https://www.curseforge.com/minecraft/mc-mods/irons-artifice)
+7. [Comforts](https://modrinth.com/mod/comforts)
+8. [Waystones](https://modrinth.com/mod/waystones)
+9. [Curios API](https://modrinth.com/mod/curios)
+10. [End Remastered](https://modrinth.com/mod/endrem)
+11. [Relics](https://modrinth.com/mod/relics-mod)
+12. [Supplementaries](https://modrinth.com/mod/supplementaries)
+13. [Quark](https://modrinth.com/mod/quark)
 
 ### QoL
 
@@ -55,10 +57,9 @@
 5. [ImmediatelyFast](https://modrinth.com/mod/immediatelyfast)
 6. [Lithium](https://modrinth.com/mod/lithium)
 7. [Not Enough Recipe Book](https://modrinth.com/mod/notenoughrecipebook)
-8. [ScalableLux](https://modrinth.com/mod/scalablelux)
 9. [BadOptimizations](https://modrinth.com/mod/badoptimizations)
 10. [fix GPU memory leak](https://www.curseforge.com/minecraft/mc-mods/fix-gpu-memory-leak)
-11. [Saro's Clearlag](https://modrinth.com/mod/saros-clearlag) OR [Neoclear](https://github.com/Neovitalism/NeoClear)
+11. [Saro's Clearlag](https://modrinth.com/mod/saros-clearlag)
 12. [Fast IP Ping](https://modrinth.com/mod/fast-ip-ping)
 13. [Dynamic FPS](https://modrinth.com/mod/dynamic-fps)
 14. [Chunky](https://modrinth.com/plugin/chunky)
