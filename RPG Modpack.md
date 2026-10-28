@@ -3,7 +3,7 @@
 ### Core
 
 1. [Fancy Toasts](https://modrinth.com/mod/fancy-toasts)
-2. [Paginated Advancements](https://modrinth.com/mod/paginatedadvancements)
+2. [Better Advancements](https://modrinth.com/mod/better-advancements)
 3. [NetherPortalFix](https://modrinth.com/mod/netherportalfix)
 4. [Farsight](https://www.curseforge.com/minecraft/mc-mods/farsight)
 5. [Quick Skin](https://modrinth.com/mod/quick-skin)
@@ -22,14 +22,16 @@
 3. [Ars Elemental](https://www.curseforge.com/minecraft/mc-mods/ars-elemental)
 4. [Ars Delight](https://modrinth.com/mod/arsdelight)
 5. [Not Enough Glyphs](https://modrinth.com/mod/not-enough-glyphs)
-6. [Iron's Artifice](https://www.curseforge.com/minecraft/mc-mods/irons-artifice)
+6. [Iron's Arms 'n Artifice]([https://www.curseforge.com/minecraft/mc-mods/irons-artifice)](https://modrinth.com/mod/irons-artifice)
 7. [Comforts](https://modrinth.com/mod/comforts)
 8. [Waystones](https://modrinth.com/mod/waystones)
 9. [Curios API](https://modrinth.com/mod/curios)
 10. [End Remastered](https://modrinth.com/mod/endrem)
 11. [Relics](https://modrinth.com/mod/relics-mod)
 12. [Supplementaries](https://modrinth.com/mod/supplementaries)
-13. [Quark](https://modrinth.com/mod/quark)
+13. [Amendments](https://modrinth.com/mod/amendments)
+14. [Quark](https://modrinth.com/mod/quark)
+15. [Curios](https://modrinth.com/mod/curios)
 
 ### QoL
 
@@ -51,11 +53,11 @@
 ### Perfomance
 
 1. [Entity Culling](https://modrinth.com/mod/entityculling)
-2. [Sodium](https://modrinth.com/mod/sodium)
+2. [Embeddium](https://modrinth.com/mod/embeddium)
 3. [Ferrite Core](https://modrinth.com/mod/ferrite-core)
 4. [ModernFix](https://modrinth.com/mod/modernfix)
 5. [ImmediatelyFast](https://modrinth.com/mod/immediatelyfast)
-6. [Lithium](https://modrinth.com/mod/lithium)
+6. [Radium](https://modrinth.com/mod/radium)
 7. [Not Enough Recipe Book](https://modrinth.com/mod/notenoughrecipebook)
 9. [BadOptimizations](https://modrinth.com/mod/badoptimizations)
 10. [fix GPU memory leak](https://www.curseforge.com/minecraft/mc-mods/fix-gpu-memory-leak)
@@ -72,3 +74,10 @@
 
 ### Dependencies
 
+1. [OctoLib](https://modrinth.com/mod/shatterbyte-lib)
+2. [Fragmentum](https://modrinth.com/mod/fragmentum)
+3. [Archivist](https://modrinth.com/mod/archivist-api)
+4. [GeckoLib](https://modrinth.com/mod/geckolib)
+5. [Architectury](https://modrinth.com/mod/architectury-api)
+6. [Moonlight](https://modrinth.com/mod/moonlight)
+7. [Iron's Lib](https://modrinth.com/mod/irons-lib)
