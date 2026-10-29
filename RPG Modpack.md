@@ -33,23 +33,27 @@
 14. [Quark](https://modrinth.com/mod/quark)
 15. [Curios](https://modrinth.com/mod/curios)
 16. [DoG](https://modrinth.com/mod/devourer-of-gods)
+17. [Tinkers' Construct](https://modrinth.com/mod/tinkers-construct)
+18. [Tinkers' Delight](https://modrinth.com/mod/tinkers-delight)
+19. [Tinkers' Integration](https://modrinth.com/mod/tcintegrations)
+20. [Tinkers' Katanas](https://www.curseforge.com/minecraft/mc-mods/tinkers-katanas)
+21. [Create](https://modrinth.com/mod/create)
 
 ### QoL
 
-1. [Simple Voice Chat](https://modrinth.com/plugin/simple-voice-chat)
-2. [LambDynamicLights](https://modrinth.com/mod/lambdynamiclights)
-3. [Sound Physics Remastered](https://modrinth.com/mod/sound-physics-remastered)
-4. [Xaero's Minimap](https://modrinth.com/mod/xaeros-minimap)
-5. [Xaero's World Map](https://modrinth.com/mod/xaeros-world-map)
-6. [Not Enough Animations](https://modrinth.com/mod/not-enough-animations)
-7. [Better Combat](https://modrinth.com/mod/better-combat)
-8. [PlayerRevive](https://modrinth.com/mod/playerrevive)
-9. [Corpse](https://modrinth.com/mod/corpse)
-10. [Enchantment Descriptions](https://modrinth.com/mod/enchantment-descriptions)
-11. [EMI](https://modrinth.com/mod/emi)
-12. [AppleSkin](https://modrinth.com/mod/appleskin)
-13. [Jade](https://modrinth.com/mod/jade)
-14. [Chat Heads](https://modrinth.com/mod/chat-heads)
+1. [LambDynamicLights](https://modrinth.com/mod/lambdynamiclights)
+2. [Sound Physics Remastered](https://modrinth.com/mod/sound-physics-remastered)
+3. [Xaero's Minimap](https://modrinth.com/mod/xaeros-minimap)
+4. [Xaero's World Map](https://modrinth.com/mod/xaeros-world-map)
+5. [Not Enough Animations](https://modrinth.com/mod/not-enough-animations)
+6. [Better Combat](https://modrinth.com/mod/better-combat)
+7. [PlayerRevive](https://modrinth.com/mod/playerrevive)
+8. [Corpse](https://modrinth.com/mod/corpse)
+9. [Enchantment Descriptions](https://modrinth.com/mod/enchantment-descriptions)
+10. [EMI](https://modrinth.com/mod/emi)
+11. [AppleSkin](https://modrinth.com/mod/appleskin)
+12. [Jade](https://modrinth.com/mod/jade)
+13. [Chat Heads](https://modrinth.com/mod/chat-heads)
 
 ### Perfomance
 
@@ -72,6 +76,8 @@
 ### Compatibility
 
 1. [Reliquified Ars Nouveau](https://modrinth.com/mod/reliquified-ars-nouveau)
+2. [Tinkers' Better Combat](https://www.curseforge.com/minecraft/mc-mods/tinker-and-better-combat)
+3. [Ars Creo](https://modrinth.com/mod/ars-creo)
 
 ### Dependencies
 
