@@ -22,7 +22,7 @@
 3. [Ars Elemental](https://www.curseforge.com/minecraft/mc-mods/ars-elemental)
 4. [Ars Delight](https://modrinth.com/mod/arsdelight)
 5. [Not Enough Glyphs](https://modrinth.com/mod/not-enough-glyphs)
-6. [Iron's Arms 'n Artifice]([https://www.curseforge.com/minecraft/mc-mods/irons-artifice)](https://modrinth.com/mod/irons-artifice)
+6. [Iron's Arms 'n Artifice](https://modrinth.com/mod/irons-artifice)
 7. [Comforts](https://modrinth.com/mod/comforts)
 8. [Waystones](https://modrinth.com/mod/waystones)
 9. [Curios API](https://modrinth.com/mod/curios)
@@ -32,6 +32,7 @@
 13. [Amendments](https://modrinth.com/mod/amendments)
 14. [Quark](https://modrinth.com/mod/quark)
 15. [Curios](https://modrinth.com/mod/curios)
+16. [DoG](https://modrinth.com/mod/devourer-of-gods)
 
 ### QoL
 
